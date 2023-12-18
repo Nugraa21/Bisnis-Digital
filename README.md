@@ -2,4 +2,4 @@
 
 ## Bentuk dari web
 
-![Alt Text](assets/img/Gambar%20WhatsApp%202023-12-17%20pukul%2017.02.39_7e4b67e7.jpg)
+![Alt Text](profils.png)
